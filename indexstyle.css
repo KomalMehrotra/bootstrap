@@ -1,0 +1,145 @@
+
+
+Skip to content
+Using Gmail with screen readers
+
+5 of 338
+Fwd: bootstrap exercise
+Inbox
+x
+
+aastha dawar <aasthadawr@gmail.com>
+Attachments
+2:48 PM (3 hours ago)
+to aakash9868sinha, me, shobhit.bisaria94, aayushithani27
+
+
+
+---------- Forwarded message ---------
+From: Megha Prajapati <1008meghaa@gmail.com>
+Date: Wed, Feb 12, 2020 at 2:28 PM
+Subject: Fwd: bootstrap exercise
+To: <Aasthadawr@gmail.com>
+
+
+
+
+---------- Forwarded message ---------
+From: Megha Prajapati <1008meghaa@gmail.com>
+Date: Wed, 12 Feb 2020 at 14:14
+Subject: bootstrap exercise
+To: <Asthadawr@gmail.com>
+
+
+style.css for index.html.
+
+formstyle.css for form.html
+4 Attachments
+
+KOMAL MEHROTRA <mehrotrakomal1@gmail.com>
+Attachments
+4:57 PM (54 minutes ago)
+to aastha
+
+
+
+
+On Wed, Feb 12, 2020 at 2:48 PM aastha dawar <aasthadawr@gmail.com> wrote:
+
+
+---------- Forwarded message ---------
+From: Megha Prajapati <1008meghaa@gmail.com>
+Date: Wed, Feb 12, 2020 at 2:28 PM
+Subject: Fwd: bootstrap exercise
+To: <Aasthadawr@gmail.com>
+
+
+
+
+---------- Forwarded message ---------
+From: Megha Prajapati <1008meghaa@gmail.com>
+Date: Wed, 12 Feb 2020 at 14:14
+Subject: bootstrap exercise
+To: <Asthadawr@gmail.com>
+
+
+style.css for index.html.
+
+formstyle.css for form.html
+3 Attachments
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-default{
+	border: none;
+	 box-shadow: 2px 5px 3px #ccc;
+    
+}
+
+.navbar-default .navbar-brand{
+	color:rgb(93,188,210);
+	font-size: 28px;
+}
+
+
+.navbar-default .navbar-collapse .navbar-nav li a{
+	color: rgb(93,188,210);
+	font-size: 16px;
+}
+
+
+.divCol6{
+	 
+	 border: 1px solid rgb(185,193,204);
+	 border-radius: 5px
+}
+
+.report{
+	background-color: rgb(185,193,204);
+	color: white;
+	padding-left: 10px;
+}
+
+.forminput{
+	padding: 15px;
+}
+.verinput{
+	width: 30%;
+}
+.radiofirst{
+	margin-right: 150px;
+}
+.forminput select{
+	background-color: rgb(8,196,158);
+	color: white;
+}
+.chbtndiv{
+	 padding-top: 25px;
+}
+.chfilebtn{
+	background-color: #ccc;
+	color: white;
+}
+.rowbtn{
+	background-color: rgb(185,193,204);
+	padding: 10px;
+}
+.subbtn{
+	background-color: rgb(8,196,158);
+	color: white;
+	border: none;;
+}
+
+@media only screen and (max-width: 600px) {
+ 	.verinput{
+	width: 100%;
+	}
+	.radiofirst{
+			margin-right: 0px;
+		}
+}
+formStyle.css
+Displaying formStyle.css.
